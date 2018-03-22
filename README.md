@@ -1,5 +1,6 @@
 
-Secure Communication and Firewall Architecture for IoT Applications
+# Secure Communication and Firewall Architecture for IoT Applications
+
 
 * Decentralizing authentication and authorization in embedded devices and devised a novel approach to resolve centralized authentication and authorization for embedded devices by off-loading these processes to the local Certifying Authority
 server
