@@ -1,5 +1,5 @@
 
-# Secure Communication for Applications on embedded devices
+# Secure Communication for applications on embedded devices
 
 
  Project: Decentralizing authentication and authorization in embedded devices
