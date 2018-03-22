@@ -9,5 +9,5 @@ The architecture is implemented using Python and C languages. The implementation
 * The C implementation focuses on resource constraints and portability.
 It comprises server and client entities. It provides portability files, that can be used to port the client/server entity to any device and/or OS.
 
-*The python implementation targets non resource-constrained entities that have availability of Python 3.5 interpreter. It provides a secure communication architecture that includes Auth, server and client entities and a software stack that provides solutions for local Certificate Authority.
+* The python implementation targets non resource-constrained entities that have availability of Python 3.5 interpreter. It provides a secure communication architecture that includes Auth, server and client entities and a software stack that provides solutions for local Certificate Authority.
 
