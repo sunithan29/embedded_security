@@ -9,3 +9,5 @@ The architecture is implemented using Python and C languages. The implementation
 
 * The python implementation targets non resource-constrained entities that have availability of Python 3.5 interpreter. It provides a secure communication architecture that includes Auth, server and client entities and a software stack that provides solutions for local Certificate Authority.
 
+You can read more about the project [here](https://sunithan29.github.io/hyde/blog/iot-post/)
+
